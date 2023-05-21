@@ -1,3 +1,4 @@
+// ignore: avoid_web_libraries_in_flutter
 import 'dart:html';
 
 import 'package:bring_the_menu/views/admin/generate_qr/generate_qr.dart';
